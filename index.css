@@ -137,8 +137,22 @@ body {
     height: 150px;
     border-radius: 50%;
   }
+  .r3{
+    width: 90%;
+  }
 }
 
+@media (max-width: 767px) {
+  .r1{
+   width: 100%;
+  
+  }
+  .r3{
+    width: 80%;
+  }
+
+
+}
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .food-img {
@@ -152,6 +166,9 @@ body {
     margin: auto;
     padding: auto;
   }
+  .r1{
+    width:96%;
+  }
 }
 
 /* // Large devices (desktops, 992px and up) */
@@ -164,10 +181,3 @@ body {
   }
 }
 
-/* // X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
-
-/* // XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) {
-}
