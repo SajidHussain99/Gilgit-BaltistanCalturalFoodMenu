@@ -2,7 +2,7 @@
 
 let foodArray=[
     {
-        image:"../images/chapshoro2.jpg",
+        image:"./chapshoro2.jpg",
         fName:"Chap Shrow", 
         fPrice:"RS: 200",
         type:2,
@@ -10,35 +10,35 @@ let foodArray=[
 
     },
     {
-        image:"../images/tumoro.jpg",
+        image:"./tumoro.jpg",
         fName:"Tumoro Chai", 
         fPrice:"RS: 150",
         type:1,
         disc:"Tumuro is collected from the high mountains, surrounding Nagar valley."
     },
     {
-        image:"../images/baling.jpg",
+        image:"./baling.jpg",
         fName:"Baling Chai", 
         fPrice:"RS: 300",
         type:1,
         disc:"They boil walnuts shells and black tea in the water."
     },
     {
-        image:"../images/mamtu1.JPG",
+        image:"./mamtu1.JPG",
         fName:"Mamtu", 
         fPrice:"RS: 250",
         type:1,
         disc:"Mamtu or meat dumpling is a steam-dish, of mince meat of lamb or beef."
     },
     {
-        image:"../images/sharbat.jpg",
+        image:"./sharbat.jpg",
         fName:"Sharbat", 
         fPrice:"RS: 500",
         type:2,
         disc:"Sharbat is another energizing dish from Gilgit-Baltistan. The locals prepare it with wheat and butter."
     },
     {
-        image:"../images/chupati.jpg",
+        image:"./chupati.jpg",
         fName:"Chappati", 
         fPrice:"RS: 150",
         type:1,
@@ -47,28 +47,28 @@ let foodArray=[
     },
     
     {
-        image:"../images/Diram.jpg",
+        image:"./Diram.jpg",
         fName:"Diram Fiti", 
         fPrice:"RS: 500",
         type:2,
         disc:"Diram Fiti is bread, made from sprouted wheat flour, with its natural sweetness. The locals serve it with a mixture of butter, almonds or apricot oil.",
     },
     {
-        image:"../images/giyaling.png",
+        image:"./giyaling.png",
         fName:"Giyaling", 
         fPrice:"RS: 300",
         type:1,
         disc:"It’s flat bread, which is made up of whole grain flour. It is rich in vitamin B-17 and the local people serve it with butter, spreading over it.",
     },
     {
-        image:"../images/biryani.webp",
+        image:"./biryani.webp",
         fName:"Biryani", 
         fPrice:"RS: 500",
         type:2,
         disc:"Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. ",
     },
     {
-        image:"../images/karahi.jpg",
+        image:"./karahi.jpg",
         fName:"Karahi", 
         fPrice:"RS: 500",
         type:2,
